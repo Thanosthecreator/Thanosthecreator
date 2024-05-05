@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Thanosthecreator, I'm an Italian guy
 -  I’m currently studying aerospace engineering and I love coding
--  I’m looking to collaborate on phyton project most
+-  I have learned phyton, css, tailwind and js. Currently I am studying React
+  
 
 
 <!---
